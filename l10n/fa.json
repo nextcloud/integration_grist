@@ -1,0 +1,7 @@
+{ "translations": {
+    "Bad HTTP method" : "روش HTTP بد",
+    "Bad credentials" : "اعتبارنامه بد",
+    "Connected accounts" : "حساب‌های متصل",
+    "API key" : "کلید API"
+},"pluralForm" :"nplurals=2; plural=(n > 1);"
+}

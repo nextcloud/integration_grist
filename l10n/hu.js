@@ -1,0 +1,9 @@
+OC.L10N.register(
+    "integration_grist",
+    {
+    "Bad HTTP method" : "Hibás HTTP metódus",
+    "Bad credentials" : "Hibás hitelesítő adatok",
+    "Connected accounts" : "Kapcsolt fiókok",
+    "API key" : "API-kulcs"
+},
+"nplurals=2; plural=(n != 1);");
