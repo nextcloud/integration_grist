@@ -1,0 +1,17 @@
+{ "translations": {
+    "Grist documents" : "Doiciméid Grist",
+    "Bad HTTP method" : "Droch-mhodh HTTP",
+    "Bad credentials" : "Dintiúir dona",
+    "Connected accounts" : "Cuntais nasctha",
+    "Grist Integration" : "Comhtháthú Grist",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Ceangail le do chás Grist chun doiciméid a chuardach agus naisc a chur leis tríd an Smart Picker",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "Ceanglaíonn comhtháthú Grist Nextcloud le cuntas Grist féinóstáilte nó díoltóra-óstáilte, rud a sholáthraíonn soláthraí cuardaigh aontaithe agus comhpháirt roghnóra cliste do dhoiciméid.",
+    "Grist options saved" : "Roghanna grist sábháilte",
+    "Failed to save Grist options" : "Theip ar roghanna Grist a shábháil",
+    "Grist integration" : "Comhtháthú Grist",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Chun eochair API a chruthú, téigh go dtí an chuid \"Forbróir\" de shocruithe do Chuntais Grist.",
+    "Grist instance address" : "Seoladh sampla Grist",
+    "API key" : "Eochair API",
+    "Grist API key" : "Eochair API Grist"
+},"pluralForm" :"nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+}
