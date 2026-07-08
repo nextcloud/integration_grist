@@ -1,9 +1,19 @@
 OC.L10N.register(
     "integration_grist",
     {
+    "Grist documents" : "Grist dokument",
     "Bad HTTP method" : "Felaktig HTTP-metod",
     "Bad credentials" : "Ogiltiga inloggningsuppgifter",
     "Connected accounts" : "Anslutna konton",
-    "API key" : "API-nyckel"
+    "Grist Integration" : "Grist Integration",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Anslut till din Grist-instans för att söka efter dokument och lägga till länkar via Smart Väljare.",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "Gristintegrationen kopplar Nextcloud till ett Gristkonto, vilket tillhandahåller en enhetlig sökfunktion och smart väljar-komponent för dokument.",
+    "Grist options saved" : "Grist-val har sparats.",
+    "Failed to save Grist options" : "Sparande av Grist-val har misslyckats.",
+    "Grist integration" : "Grist integration",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Skapa en API-nyckel under Utvecklar-sektionen i Grist-kontots inställningar.",
+    "Grist instance address" : "Grist-instansens adress",
+    "API key" : "API-nyckel",
+    "Grist API key" : "Grist API-nyckel"
 },
 "nplurals=2; plural=(n != 1);");
