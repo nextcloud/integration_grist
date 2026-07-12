@@ -11,7 +11,7 @@ OC.L10N.register(
     "Grist options saved" : "Grist-Einstellungen gespeichert",
     "Failed to save Grist options" : "Grist-Einstellungen konnten nicht gespeichert werden",
     "Grist integration" : "Grist-Integration",
-    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Um einen API-Schlüssel zu erstellen, zum Abschnitt \"Developer\" Ihrer Grist-Benutzereinstellungen gehen.",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Um einen API-Schlüssel zu erstellen, zum Abschnitt \"Developer\" deiner Grist-Benutzereinstellungen gehen.",
     "Grist instance address" : "Adresse der Grist-Instanz",
     "API key" : "API-Schlüssel",
     "Grist API key" : "Grist-API-Schlüssel"
