@@ -1,7 +1,17 @@
 { "translations": {
+    "Grist documents" : "Grist documents",
     "Bad HTTP method" : "Bad HTTP method",
     "Bad credentials" : "Bad credentials",
     "Connected accounts" : "Connected accounts",
-    "API key" : "API key"
+    "Grist Integration" : "Grist Integration",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Connect to your Grist instance to search for documents and add links via Smart Picker",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents.",
+    "Grist options saved" : "Grist options saved",
+    "Failed to save Grist options" : "Failed to save Grist options",
+    "Grist integration" : "Grist integration",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "To create an API key, go to the \"Developer\" section of your Grist Account settings.",
+    "Grist instance address" : "Grist instance address",
+    "API key" : "API key",
+    "Grist API key" : "Grist API key"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
