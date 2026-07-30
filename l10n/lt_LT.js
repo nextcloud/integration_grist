@@ -4,6 +4,8 @@ OC.L10N.register(
     "Bad HTTP method" : "Blogas HTTP metodas",
     "Bad credentials" : "Blogi prisijungimo duomenys",
     "Connected accounts" : "Prijungtos paskyros",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Prisijunkite prie savo „Grist“ egzemplioriaus, kad ieškotumėte dokumentų ir pridėtumėte nuorodų naudodami išmanaus rinkiklio įrankį.",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "„Grist“ integracija sujungia „Nextcloud“ su savarankiškai arba paslaugų teikėjo prižiūrima „Grist“ paskyra, taip užtikrinant vieningą paieškos funkciją ir išmanųjį dokumentų pasirinkimo komponentą.",
     "API key" : "API raktas"
 },
 "nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);");
