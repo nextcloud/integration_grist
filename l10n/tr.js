@@ -1,9 +1,19 @@
 OC.L10N.register(
     "integration_grist",
     {
+    "Grist documents" : "Grist belgeleri",
     "Bad HTTP method" : "HTTP yöntemi hatalı",
     "Bad credentials" : "Kimlik doğrulama bilgileri hatalı",
     "Connected accounts" : "Bağlı hesaplar",
-    "API key" : "API anahtarı"
+    "Grist Integration" : "Grist bütünleştirmesi",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Akıllı seçici ile belgeleri aramak ve bağlantılar eklemek için Grist kopyanıza bağlanın",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "Grist bütünleştirmesi, Nextcloud ile özel barındırılan veya satıcıda barındırılan bir Grist hesabını bağlayarak birleşik bir arama hizmeti sağlayıcısı ve belgeler için bir akıllı seçici bileşeni sağlar.",
+    "Grist options saved" : "Grist ayarları kaydedildi",
+    "Failed to save Grist options" : "Grist ayarları kaydedilemedi",
+    "Grist integration" : "Grist bütünleştirmesi",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Bir API anahtarı oluşturmak için Grist hesap ayarlarınızın \"Geliştirici\" bölümüne gidin.",
+    "Grist instance address" : "Grist kopyası adresi",
+    "API key" : "API anahtarı",
+    "Grist API key" : "Grist API anahtarı"
 },
 "nplurals=2; plural=(n > 1);");
