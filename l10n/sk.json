@@ -1,7 +1,17 @@
 { "translations": {
+    "Grist documents" : "Dokumenty Grist",
     "Bad HTTP method" : "Zlá metóda HTTP",
     "Bad credentials" : "Nesprávne prihlasovacie údaje",
     "Connected accounts" : "Prepojené účty",
-    "API key" : "API kľúč"
+    "Grist Integration" : "Integrácia Grist",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Pripojte sa k svojej inštancii Grist a vyhľadávajte dokumenty a pridávajte odkazy prostredníctvom inteligentného výberu",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "Integrácia Grist prepája Nextcloud s účtom Grist hostovaným na vlastnom serveri alebo u poskytovateľa a poskytuje jednotného poskytovateľa vyhľadávania a komponent inteligentného výberu dokumentov.",
+    "Grist options saved" : "Možnosti Grist boli uložené",
+    "Failed to save Grist options" : "Možnosti Grist sa nepodarilo uložiť",
+    "Grist integration" : "Integrácia Grist",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Ak chcete vytvoriť kľúč API, prejdite do časti „Developer“ v nastaveniach svojho účtu Grist.",
+    "Grist instance address" : "Adresa inštancie Grist",
+    "API key" : "API kľúč",
+    "Grist API key" : "Kľúč API Grist"
 },"pluralForm" :"nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);"
 }
