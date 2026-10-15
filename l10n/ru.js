@@ -1,9 +1,19 @@
 OC.L10N.register(
     "integration_grist",
     {
+    "Grist documents" : "Документы Grist",
     "Bad HTTP method" : "Неверный метод HTTP",
     "Bad credentials" : "Неверные учётные данные",
     "Connected accounts" : "Подключённые учётные записи",
-    "API key" : "Ключ API"
+    "Grist Integration" : "Интеграция с Grist",
+    "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Подключение к Grist для поиска документов и вставки ссылок через умный подборщик",
+    "The Grist integration connects Nextcloud to a self-hosted or vendor-hosted Grist account, providing a \n\tunified search provider and a smart picker component for documents." : "Интеграция с Grist подключает Nextcloud к учётной записи Grist на собственном сервере или у поставщика: \n\tдокументы доступны в общем поиске и в умном подборщике.",
+    "Grist options saved" : "Параметры Grist сохранены",
+    "Failed to save Grist options" : "Не удалось сохранить параметры Grist",
+    "Grist integration" : "Интеграция с Grist",
+    "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Чтобы создать ключ API, откройте раздел «Developer» в параметрах учётной записи Grist.",
+    "Grist instance address" : "Адрес сервера Grist",
+    "API key" : "Ключ API",
+    "Grist API key" : "Ключ API Grist"
 },
 "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");
