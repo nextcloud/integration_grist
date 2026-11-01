@@ -2,8 +2,8 @@ OC.L10N.register(
     "integration_grist",
     {
     "Grist documents" : "Grist-dokumenter",
-    "Bad HTTP method" : "Dårlig HTTP metode",
-    "Bad credentials" : "Forkerte legitimationsoplysninger",
+    "Bad HTTP method" : "Ugyldig HTTP-metode",
+    "Bad credentials" : "Forkerte loginoplysninger",
     "Connected accounts" : "Forbundne konti",
     "Grist Integration" : "Grist-integration",
     "Connect to your Grist instance to search for documents and add links via Smart Picker" : "Forbind til din Grist-instans for at søge efter dokumenter og tilføje links via Smart Picker",
@@ -13,7 +13,7 @@ OC.L10N.register(
     "Grist integration" : "Grist-integration",
     "To create an API key, go to the \"Developer\" section of your Grist Account settings." : "Gå til afsnittet \"Developer\" i indstillingerne for din Grist-konto for at oprette en API-nøgle.",
     "Grist instance address" : "Adresse på Grist-instansen",
-    "API key" : "API nøgle",
+    "API key" : "API-nøgle",
     "Grist API key" : "API-nøgle til Grist"
 },
 "nplurals=2; plural=(n != 1);");
